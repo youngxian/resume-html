@@ -1,0 +1,13 @@
+{
+    "name": "i_am_gold/gold-cv",
+    "description": "myCV",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "dimugold",
+            "email": "golddeborah@users.noreply.github.com"
+        }
+    ]
+}
